@@ -1,7 +1,7 @@
 {
-  "name": "slack",
+  "name": "kirby-slack",
   "description": "Provides a slack client for the kirby system.",
-  "author": "Marc Runkel <marc.runkel@kautionsfrei.de>",
+  "author": "Marc Runkel <mrunkel@runkel.org>",
   "version": "0.1.0",
   "type": "kirby-plugin",
   "license": "MIT"
