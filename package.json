@@ -1,0 +1,8 @@
+{
+  "name": "slack",
+  "description": "Provides a slack client for the kirby system.",
+  "author": "Marc Runkel <marc.runkel@kautionsfrei.de>",
+  "version": "0.1.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

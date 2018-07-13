@@ -1,0 +1,6 @@
+{
+    "require": {
+        "alek13/slack": "^1.10",
+        "psr/log": "^1.0"
+    }
+}
